@@ -281,3 +281,12 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+ .box {
+    background-color: #E0B7E0;
+  border: 0px solid rgba(0, 0, 0, 0.8);
+  border-width: 2px;
+  padding: 20px;
+  margin-top: 25px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.8);
+}
