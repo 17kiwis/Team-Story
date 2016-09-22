@@ -11,7 +11,7 @@
    ========================================================================== */
 
 html {
-    color: #222;
+    color: #E80CDD;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -25,12 +25,12 @@ html {
  */
 
 ::-moz-selection {
-    background: #b3d4fc;
+    background: #8302FF;
     text-shadow: none;
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: #8302FF;
     text-shadow: none;
 }
 
