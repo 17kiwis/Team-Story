@@ -95,6 +95,7 @@ textarea {
     background: #ccc;
     color: #000;
     padding: 0.2em 0;
+
 }
 
 /* ==========================================================================
@@ -294,4 +295,5 @@ textarea {
   padding: 20px;
   margin-top: 25px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.8);
+  opacity: 80%;
 }
