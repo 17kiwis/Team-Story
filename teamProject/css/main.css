@@ -17,6 +17,11 @@ html {
     background-color: #8302FF
 }
 
+.container {
+    max-width: 960px;
+    margin: auto;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
